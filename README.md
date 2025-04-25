@@ -14,3 +14,7 @@ A basic understanding of machine/ deep learning is required for these tutorials.
 This repository is intended to be the 'catch-all' for machine learning with language models. We explain every step of the way here, as it helps to be verbose. A lot of tutorials overlook mathematical logic in favour of mass-producing AI 'engineers' with little theoretical knowledge. This is a short-sighted outcome as it will lead to brittle developers who can't problem-solve.
 
 Take your time with these exercises. You can complete one over two days to enhance your recall, with a revision within the same week. Repetition is key - if you can't recall the logic, write it again. Most coding is just rote learning. Combine rote attempts with theory and you'll gain a much richer understanding of the concepts herein.
+
+# Current Status
+
+Start with Encoder-Decoder models. This tutorial teaches you how to build a standard Gated Recurrent Network (GRU).
