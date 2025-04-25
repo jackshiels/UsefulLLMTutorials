@@ -4,11 +4,10 @@ A collection of useful LLM tutorials, generated using information from textbooks
 # Prerequisite learning
 A basic understanding of machine/ deep learning is required for these tutorials. You should also understand how matrices work. If you don't have either of these skills, please start here:
 
-Deep learning/ machine learning (PAID): [Nvidia Deep Learning](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-01+V1)
-Deep learning/ machine learning (FREE): [Learn PyTorch](https://www.learnpytorch.io)
-
-Linear Algebra (PAID): [https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang](https://www.amazon.com/dp/1733146652?ref_=cm_sw_r_ffobk_cp_ud_dp_62EP39RJGDBHSBP3JA6R)
-Linear Algebra (FREE if audited): [Coursera Linear Algebra for Machine Learning](https://www.coursera.org/learn/linear-algebra-machine-learning?action=enroll&authMode=signup)
+* Deep learning/ machine learning (PAID): [Nvidia Deep Learning](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-01+V1)
+* Deep learning/ machine learning (FREE): [Learn PyTorch](https://www.learnpytorch.io)
+* Linear Algebra (PAID): [Strang's Linear Algebra](https://www.amazon.com/dp/1733146652?ref_=cm_sw_r_ffobk_cp_ud_dp_62EP39RJGDBHSBP3JA6R)
+* Linear Algebra (FREE if audited): [Coursera Linear Algebra for Machine Learning](https://www.coursera.org/learn/linear-algebra-machine-learning?action=enroll&authMode=signup)
 
 
 # How to approach the materials
